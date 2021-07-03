@@ -1,6 +1,6 @@
 customhost = "employee.crtzsv04f16b.us-east-1.rds.amazonaws.com"
 customuser = "intellipaat"
 custompass = "password123"
-customdb = "employee"
+customdb = "emplayee"
 custombucket = "addemployee-to-store-data"
 customregion = "us-east-1"
