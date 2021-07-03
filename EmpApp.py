@@ -10,8 +10,8 @@ app = Flask(__name__)
 # DBPORT = os.environ.get("DBPORT")
 # DBPORT = int(DBPORT)
 # DBUSER = os.environ.get("DBUSER")
-# DBPWD = os.environ.get("DBPWD")
- DATABASE = os.environ.get("DATABASE")
+# DBPWD = os.environ.get("DBPWD") 
+DATABASE = os.environ.get("DATABASE")
 
 bucket= custombucket
 region= customregion
