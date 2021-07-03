@@ -1,6 +1,6 @@
 customhost = "testdb.crtzsv04f16b.us-east-1.rds.amazonaws.com"
-customuser = "chan"
+customuser = "testdb"
 custompass = "testtest123"
-customdb = "testdb"
+customdb = "chan"
 custombucket = "addemployee-to-store-data"
 customregion = "us-east-1"
