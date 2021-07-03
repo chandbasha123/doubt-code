@@ -15,7 +15,6 @@ DATABASE = os.environ.get("DATABASE")
 
 bucket= custombucket
 region= customregion
-table= customtable
 
 db_conn = connections.Connection(
     host= customhost,
